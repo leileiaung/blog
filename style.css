@@ -1,0 +1,13 @@
+.my-bg {
+    background: skyblue !important;
+}
+
+.carousel-item img {
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel-caption {
+    bottom: 14.25rem !important;
+}
